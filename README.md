@@ -1,12 +1,12 @@
-Ubuntuism is a demo template developed to explore rapid template development for the Joomla! CMS. Ubuntuism is built with a modified version of Construct5, a unified HTML5 version of the Construct Template Development Framework from http://construct-framework.com
-
-See http://betweenbrain.github.com/ubuntuism for the introductory presentation.
+Ubuntuism5 is a demo template pack developed to explore rapid template development using the Construct Template Development Framework from http://construct-framework.com.
 
 #To Get Started With Construct#
-The Construct Template Development Framework is a code based solution with the goal of streamlining the process of creating one-of-a-kind Joomla! templates while not limiting your creative abilities. To get started with this demo version of Construct, <a href="https://github.com/betweenbrain/ubuntuism/zipball/master">Download</a> and install the template as you would any extension. Once installed, set *Ubuntuism* as your default template and start creating your unique look by adding your unique styles to the demo.css style sheet. Learn more about developing custom templates with Construct by visiting http://construct-framework.com
+The Construct Template Development Framework is a code-based solution with the goal of streamlining the process of creating one-of-a-kind Joomla! templates while not limiting your creative abilities. To get started with this demo template pack, <a href=https://github.com/construct-framework/ubuntuism5/zipball/master">download Ubuntuism5</a> and extract it within an existing installation of Construct.
+
+ Learn more about developing custom templates with Construct by visiting http://construct-framework.com
 
 #Step By Step Guide To Creating Ubuntuism#
-For this exploration, we will recreating the Ubuntu 11.04 classic desktop experience as a Joomla template.
+For this demo, we've recreated the Ubuntu 11.04 classic desktop experience as a Joomla template. You can follow the steps below to manually create Ubuntuism5.
 
 1. Start with a clean installation of Joomla, preferably the latest version, with sample data installed.
 2. Install the *Ubuntuism* demo template.
