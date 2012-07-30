@@ -1,7 +1,7 @@
 Ubuntuism5 is a demo template pack developed to explore rapid template development using the Construct Template Development Framework from http://construct-framework.com.
 
 #To Get Started With Construct#
-The Construct Template Development Framework is a code-based solution with the goal of streamlining the process of creating one-of-a-kind Joomla! templates while not limiting your creative abilities. To get started with this demo template pack, <a href=https://github.com/construct-framework/ubuntuism5/zipball/master">download Ubuntuism5</a> and extract it within an existing installation of Construct.
+The Construct Template Development Framework is a code-based solution with the goal of streamlining the process of creating one-of-a-kind Joomla! templates while not limiting your creative abilities. To get started with this demo template pack, <a href="https://github.com/construct-framework/ubuntuism5/zipball/master">download Ubuntuism5</a> and extract it within an existing installation of Construct.
 
  Learn more about developing custom templates with Construct by visiting http://construct-framework.com
 
