@@ -24,6 +24,7 @@ elements/logic.php
 elements/mdetect.php
 elements/upgradecheck.php
 html/
+.idea
 images/index.html
 images/selector-arrow.png
 images/trans.gif
